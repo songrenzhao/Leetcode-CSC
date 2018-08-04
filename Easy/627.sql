@@ -18,7 +18,7 @@ After running your query, the above salary table should have the following rows:
 | 4  | D    | m   | 500    |
 */
 
-//Solution in MySQL
+--Solution in MySQL
 UPDATE salary
     SET sex  = (CASE WHEN sex = 'm' 
         THEN  'f' 
