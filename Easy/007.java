@@ -61,7 +61,7 @@ class Solution {
         int output = 0;
         while(x != 0)
         {
-            int pop = x % 10;
+            int pop = x % 10; //别问为什么 负数%10 不等于正数。
             x = x / 10;
             if((output*10) / 100 != output / 10)
                 return 0;
