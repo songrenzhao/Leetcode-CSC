@@ -1,1 +1,7 @@
-Medium的问题库以及答案
+Medium的问题库以及答案  如果可以的话 comment一下你的逻辑 那么人家就比较容易follow
+
+请把所有的答案放进一个file里面 例如 我的1.cpp里面是 leetcode第一题的答案，等到你们做了之后 可以把我的给comment掉 然后放你们的答案。 最好是表明使用的语言 以下是 Sample
+
+/* <- 把旧的答案comment掉 // Solution in C++ Class Solution{ public: some code is being typed... } */
+
+// <- 新的solution //Solution in Java class Solution{ public int ... return... }
