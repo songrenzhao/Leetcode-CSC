@@ -36,7 +36,8 @@ for (int i = 0; i < len; i++) {
 }
 */
 
-// 这个问题好傻 真的
+// 这个问题有点问题 真的，因为那个array永远都不会变。 例如 "aa"的话 这个remove 不会把其中的a给弄掉。 所以我就不知道为什么要需要
+// 不能创造新的array。
 //Solution in Java
 class Solution {
     public int removeDuplicates(int[] nums) {
