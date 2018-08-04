@@ -30,5 +30,5 @@ Note:
 The students should not be counted duplicate in each course.
 */
 
-//Solution in MySQL
+--Solution in MySQL
 select class from courses group by class having count(distinct student) >= 5;
