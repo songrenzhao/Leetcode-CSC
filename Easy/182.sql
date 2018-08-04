@@ -19,6 +19,6 @@ For example, your query should return the following for the above table:
 Note: All emails are in lowercase.
 */
 
-//Solution in MySQL
+--Solution in MySQL
 # Write your MySQL query statement below
 select Email from Person group by Email having count(Email) > 1;
