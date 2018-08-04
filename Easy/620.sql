@@ -23,5 +23,5 @@ For the example above, the output should be:
 +---------+-----------+--------------+-----------+
 */
 
-//Solution in MySQL
+--Solution in MySQL
 select * from cinema where id%2=1 and description <> 'boring' order by rating desc;
