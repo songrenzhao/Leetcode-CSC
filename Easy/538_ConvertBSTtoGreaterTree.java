@@ -15,6 +15,8 @@ Output: The root of a Greater Tree like this:
           20     13
 */
 
+//恕我直言 这题我卡了接近一个小时
+//结果做出来的时候 无法面对自己
 //Solution in Java
 class Solution {
     private int total = 0;
