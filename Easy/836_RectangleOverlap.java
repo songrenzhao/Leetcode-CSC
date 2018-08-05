@@ -21,6 +21,7 @@ All coordinates in rectangles will be between -10^9 and 10^9.
 */
 
 //Solution in Java
+//这逻辑画个图 然后找不是overlap的原因 就很明显了
 class Solution {
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
          if(rec1[1] >= rec2[3] || rec1[0] >= rec2[2] || rec1[3] <= rec2[1] || rec1[2] <= rec2[0])
