@@ -18,6 +18,7 @@ Both strings' lengths will not exceed 100.
 Only letters from a ~ z will appear in input strings.
 */
 
+//又是送分题
 //Solution in Java
 class Solution {
     public int findLUSlength(String a, String b) {
