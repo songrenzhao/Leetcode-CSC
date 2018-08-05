@@ -13,6 +13,7 @@ Explanation: If there are 4 stones in the heap, then you will never win the game
              removed by your friend.
 */
 
+//这题是送命还是送分 这种逻辑思路我给零分
 //Solution in Java
 class Solution {
     public boolean canWinNim(int n) {
