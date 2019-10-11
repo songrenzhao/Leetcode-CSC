@@ -24,7 +24,7 @@ Contents:
 ## Factory Pattern
 + create an interface
 
-``` 
+``` java
 public interface Shape{
 	 void draw();
 }
