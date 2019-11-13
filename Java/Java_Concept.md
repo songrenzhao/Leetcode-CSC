@@ -28,6 +28,7 @@ Contents:
   | public   |         yes            |         yes                 |
   | default  |         yes            |          no                 |
   | protected|         yes            |     only if extend class    |  
++  Protected variable (or method) can NOT be accessed from an instance (created with new); it can only be accessed from a sub-class that extends the super-class (extended with extends).
   
   
   
