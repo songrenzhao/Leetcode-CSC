@@ -174,7 +174,7 @@
   + map does not provide iterator
 
 - types
-  + TreeMap(Sorted Map): keep keys in sorted order
+  + TreeMap implement -> Sorted Map interface->extends map interface: keep keys in sorted order
 
 
 # Hashing
