@@ -153,10 +153,6 @@
 
 - rotation
 
-## Splay Tree
-
-## B-Tree
-
 
 # Set and Map in Standard Libary
 
@@ -167,6 +163,7 @@
 
 - types
   + TreeSet(Sorted Set): worst time O(logn)
+  + HashSet, LinkedHashSet
 
 ## Map
 
