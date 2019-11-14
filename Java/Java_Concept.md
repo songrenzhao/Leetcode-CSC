@@ -7,7 +7,7 @@ Contents:
 - [OOP](#OOP)
 - [Collections](#Collections)
 - [Threading](#Thread)
-- [Programming Language vs Scripting language](#Programming Language)
+- [Programming Language](#Programming_Language)
 
 
 ## Object Oriented
@@ -285,13 +285,13 @@ Contents:
     + multi-threading: be careful that threads share structures that should be modified by one thread at a time
     + processes are independent of each other
     
-    
-## Programming language
+<a name="Programming_Language" />
+## Programming Language
 
-- Basically, all scripting languages are programming languages. The theoretical difference between the two is that scripting languages do not require the compilation step and are rather interpreted. For example, normally, a C program needs to be compiled before running whereas normally, a scripting language like JavaScript or PHP need not be compiled.
++ Basically, all scripting languages are programming languages. The theoretical difference between the two is that scripting languages do not require the compilation step and are rather interpreted. For example, normally, a C program needs to be compiled before running whereas normally, a scripting language like JavaScript or PHP need not be compiled.
 
-- Generally, compiled programs run faster than interpreted programs because they are first converted native machine code. Also, compilers read and analyze the code only once, and report the errors collectively that the code might have, but the interpreter will read and analyze the code statements each time it meets them and halts at that very instance if there is some error. In practice, the distinction between the two is getting blurred owing to improved computation capabilities of the modern hardware and advanced coding practices.
++ Generally, compiled programs run faster than interpreted programs because they are first converted native machine code. Also, compilers read and analyze the code only once, and report the errors collectively that the code might have, but the interpreter will read and analyze the code statements each time it meets them and halts at that very instance if there is some error. In practice, the distinction between the two is getting blurred owing to improved computation capabilities of the modern hardware and advanced coding practices.
 
-- The difference between an interpreted and a compiled language lies in the result of the process of interpreting or compiling. An interpreter produces a result from a program, while a compiler produces a program written in assembly language.  If the program is complex, pieces of it may be spread across several files.
++ The difference between an interpreted and a compiled language lies in the result of the process of interpreting or compiling. An interpreter produces a result from a program, while a compiler produces a program written in assembly language.  If the program is complex, pieces of it may be spread across several files.
 
   
