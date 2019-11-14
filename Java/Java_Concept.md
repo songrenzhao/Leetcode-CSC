@@ -286,6 +286,7 @@ Contents:
     + processes are independent of each other
     
 <a name="Programming_Language" />
+
 ## Programming Language
 
 + Basically, all scripting languages are programming languages. The theoretical difference between the two is that scripting languages do not require the compilation step and are rather interpreted. For example, normally, a C program needs to be compiled before running whereas normally, a scripting language like JavaScript or PHP need not be compiled.
