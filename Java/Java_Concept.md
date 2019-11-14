@@ -17,6 +17,7 @@ Contents:
 + contain data in the form of fields(attributes)
 + code in the form of procedures(methods)
 + object's procedures can access and modify the data fields of the associated object
++ [OOP benefit](https://www.quora.com/What-are-the-advantages-of-OOP)
 
 <a name="Keywords"/>
 
