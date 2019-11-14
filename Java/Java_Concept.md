@@ -73,6 +73,7 @@ Contents:
   - used when program fails the condition and wants to give warning
   - throw the exception from a method to the calling method
   - calling method can decide to handle exception or throw to its calling method
+  - [different between error and exception](https://stackoverflow.com/questions/912334/differences-between-exception-and-error)
 
   
   
