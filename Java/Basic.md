@@ -8,9 +8,9 @@
 - [Graph vs. Tree](#treegraph)
 
 
-<a name="list" />
 
-## Linkedlist vs. Arraylist vs. Vector
+
+## Linkedlist vs. Arraylist vs. Vector <a name="list" />
 
 + Operations
   - LinkedList
